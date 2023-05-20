@@ -1,0 +1,26 @@
+#bg {
+ background-image: url("unnamed.jpg");
+ background-position: center;
+ background-size: fill;
+}
+
+#title {
+    color: rgb(29, 0, 56);
+}
+
+#p1 {
+    color: rgb(29, 0, 56);
+}
+
+#p2 {
+    color: rgb(29, 0, 56);
+}
+
+.input {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#button {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(29, 0, 56, 0.289);
+}
